@@ -1,1 +1,2 @@
-# firstphyton.py
+# display the output
+print("new phyton file")
